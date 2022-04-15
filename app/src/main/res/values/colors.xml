@@ -4,4 +4,12 @@
     <color name="colorPrimaryDark">#000D7C</color>
     <color name="colorAccent">#007E6F</color>
     <color name="red">#98000F</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+
+    <color name="colorPrimary_night">#D0F8FF</color>
+    <color name="colorPrimaryDark_night">#E19700</color>
+    <color name="colorAccent_night">#5E8782</color>
+
+
 </resources>
